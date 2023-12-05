@@ -1,0 +1,30 @@
+body {
+  background-color: #FDDB30;
+}
+
+
+
+
+
+/* ENCABEZADO */
+.tamLogo {
+    width: 150px;
+    
+  }
+  
+  .encabezado {
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+  }
+  
+
+
+  .formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
